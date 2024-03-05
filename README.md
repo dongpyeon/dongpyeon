@@ -1,19 +1,14 @@
-### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=300&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=250&section=header&text=Welcome%20to%20DongHyun's%20GitHub&fontSize=40&fontColor=ffffff" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongpyeon)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongpyeon)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**dongpyeon/dongpyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongpyeon&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" width="48%" height="200px" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongpyeon&theme=default&show_icons=true" width="48%" height="200px" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
