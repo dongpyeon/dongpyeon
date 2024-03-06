@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=250&section=header&text=Welcome%20to%20DongHyun's%20GitHub&fontSize=40&fontColor=ffffff" />
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongpyeon&theme=default&show_icons=true)](s)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongpyeon&exclude_repo=dkssud8150.github.io&layout=compact&theme=default)](s)
 
